@@ -4,7 +4,6 @@ import { Helmet } from 'react-helmet';
 import RandomChar from "../randomChar/RandomChar";
 import CharList from "../charList/CharList";
 import CharInfo from "../charInfo/CharInfo";
-import ComicsList from '../comicsList/ComicsList';
 import CharSearchForm from "../charSearchForm/CharSearchForm";
 import ErrorBoundary from '../errorBoundary/ErrorBoundary';
 
